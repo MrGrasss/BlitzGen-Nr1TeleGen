@@ -42,7 +42,6 @@ In your `config.json` file, you can configure the following options:
 {
   "5sim-token": "",
   "sms-activate-token": "",
-  "operator": "any",
   "telegram_api": "pyrogram",
   "sim_provider": "5sim",
   "max_wait_time_code": 60,
@@ -52,7 +51,6 @@ In your `config.json` file, you can configure the following options:
 ```
 
 - `5sim-token` and `sms-activate-token`: Tokens for the respective number services.
-- `operator`: The selected operator, which can be "any".
 - `telegram_api`: Choose between "pyrogram" or "telethon" as your Telegram API.
 - `sim_provider`: The SMS or number service to use (currently available: "sms-activate" and "5sim").
 - `max_wait_time_code`: The maximum amount of time to wait on a code.
