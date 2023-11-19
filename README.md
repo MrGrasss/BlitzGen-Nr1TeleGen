@@ -1,4 +1,5 @@
-![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/b201954a-f4e5-4154-98a0-225fe22b21bb)
+![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/0e4c7bdc-dbad-4472-9d56-4cb1ee63fdbc)
+
 ```markdown
 # BlitzGen Telegram Bot
 
@@ -44,11 +45,11 @@ In your `config.json` file, you can configure the following options:
   "sms-activate-token": "",
   "operator": "any",
   "telegram_api": "pyrogram",
-  "sim_provider": "5sim",
   "max_wait_time_code": 60,
   "add_two_faq": true,
   "two_faq_pass": "",
-  "randomize_username": true
+  "randomize_username": true,
+  "sim_provider": "5sim",
 }
 ```
 
