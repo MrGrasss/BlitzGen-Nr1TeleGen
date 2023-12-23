@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/0e4c7bdc-dbad-4472-9d56-4cb1ee63fdbc)
+![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/872a71de-d65d-40fa-a65c-50be8bb44e1c)
 
 ```markdown
 # BlitzGen Telegram Bot
@@ -23,6 +23,7 @@ significantly enhances the efficiency of generating and saving multiple Telegram
 - **2FA Support:** Reset numbers with a password, email, or SMS-based two-factor authentication (2FA) for account.
 - **Secure Accounts:** Option to set two-factor authentication (2FA) to created accounts and remove them whenever.
 - **Profile Picture Changer:** Existing images in profile_pics folder will randomly be selected during account creation.
+- **Clean Contact List:** Searches for existing contacts and removes all of them for an account.
 - **Username Changer:** The possibility to randomly add usernames during account creation.
 
 ## Prerequisites
