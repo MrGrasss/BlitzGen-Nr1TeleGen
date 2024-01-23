@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/62aeaf3f-7d09-41d3-b9f8-9c7d6283feda)
+![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/0e9c1056-8f4e-48fb-b63d-b2ca2ec6fa3b)
 
 # BlitzGen Telegram Bot
 
