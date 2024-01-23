@@ -1,3 +1,5 @@
+![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/62aeaf3f-7d09-41d3-b9f8-9c7d6283feda)
+
 # BlitzGen Telegram Bot
 
 BlitzGen is a powerful and licensed Telegram bot developed by [MrGrassss](https://t.me/MrGrassss) that simplifies and significantly enhances the efficiency of generating and saving multiple Telegram accounts. 
@@ -21,6 +23,7 @@ BlitzGen is a powerful and licensed Telegram bot developed by [MrGrassss](https:
 - **Profile Picture Changer:** Existing images in the profile_pics folder will randomly be selected during account creation.
 - **Clean Contact List:** Searches for existing contacts and removes all of them for an account.
 - **Username Changer:** The possibility to randomly add usernames during account creation.
+- **Change Accounts API:** Login to created accounts and change the accounts to either pyrogram or telethon
 
 ## Prerequisites
 
