@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/0e9c1056-8f4e-48fb-b63d-b2ca2ec6fa3b)
+![Screenshot_1](https://github.com/MrGrasss/BlitzGen-Nr1TeleGen/assets/132838549/03626f5a-f70c-490f-9ca1-8c70a50fbe66)
 
 # BlitzGen Telegram Bot
 
@@ -24,6 +24,7 @@ BlitzGen is a powerful and licensed Telegram bot developed by [MrGrassss](https:
 - **Clean Contact List:** Searches for existing contacts and removes all of them for an account.
 - **Username Changer:** The possibility to randomly add usernames during account creation.
 - **Change Accounts API:** Login to created accounts and change the accounts to either pyrogram or telethon
+- **Kopeechka Mail support:** Retrieve e-mails for receiving verification codes through Kopeechka.
 
 ## Prerequisites
 
@@ -42,6 +43,7 @@ In your `config.json` file, you can configure the following options:
 {
   "5sim-token": "",
   "sms-activate-token": "",
+  "kopeechka-token": "",
   "operator": "any",
   "telegram_api": "pyrogram",
   "max_wait_time_code": 60,
@@ -50,3 +52,4 @@ In your `config.json` file, you can configure the following options:
   "randomize_username": true,
   "sim_provider": "5sim"
 }
+
