@@ -10,7 +10,7 @@ BlitzGen is a powerful and licensed Telegram bot developed by [MrGrassss](https:
 ## Features
 
 - **Telethon and Pyrogram Support:** Choose your preferred Telegram API (Telethon or Pyrogram) for account creation.
-- **Multi-Number Services:** Supports 5sim, SMS Activate, and more for virtual number acquisition.
+- **Multi-Number Services:** Supports 5sim, SMS Activate and SMS bower for virtual number acquisition.
 - **Emulator Management:** Detect and use available LDPlayer emulators for multi-account creation.
 - **Permissions Handling:** Automate the process of granting necessary permissions to the Telegram app.
 - **Rate Limit Workaround:** Implements strategies to work around rate limits during account creation.
@@ -43,6 +43,7 @@ In your `config.json` file, you can configure the following options:
 {
   "5sim-token": "",
   "sms-activate-token": "",
+  "smsbower-token": "",
   "kopeechka-token": "",
   "operator": "any",
   "telegram_api": "pyrogram",
