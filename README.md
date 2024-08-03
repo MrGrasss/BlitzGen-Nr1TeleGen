@@ -28,7 +28,7 @@ BlitzGen is a powerful and licensed Telegram bot developed by [MrGrassss](https:
 
 ## Prerequisites
 
-- Install [LDPlayer](https://www.ldplayer.net/) and grant it root access (applies to all instances).
+- Install [LDPlayer](https://www.ldplayer.net/) 9.
 - LDPlayer must be running, and ADB debugging should be set to 'Open local connection' for BlitzGen to function properly.
 - To run multiple instances, you can press Ctrl + 2 in LDPlayer to open the instance manager and clone your instance.
 - LDPlayer instances should always be in tablet mode with a resolution of 1600x900 (dpi 240).
@@ -53,4 +53,3 @@ In your `config.json` file, you can configure the following options:
   "randomize_username": true,
   "sim_provider": "5sim"
 }
-
